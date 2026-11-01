@@ -101,7 +101,7 @@ lib/
 
 1. **Clone the repository:**
    ```bash
-   git clone "[https://github.com/dev-obadamarouf/palliative-care-app.git](https://github.com/dev-obadamarouf/palliative-care-app.git)"
+   git clone "[https://github.com/dev-obadamarouf/palliative-care-app.git]"
    ```
 2. **Navigate to the project directory:**
    ```bash
